@@ -1,6 +1,9 @@
+import { useContext } from "react"
 import { assets } from "../assets/assets"
+import { AppContext } from "../context/AppContext"
 
 const Header = () => {
+    const { removeBg } = useContext(AppContext)
   return (
     <div className="flex items-center justify-between max-sm:flex-col-reverse gap-y-10 px-4 mt-10 lg:px-44 sm:mt-15">
         {/* Left Side of Header */}
@@ -10,7 +13,7 @@ const Header = () => {
             </h1>
             <p className="my-6 text-[15px] text-gray-500">Upload your image and remove the background from it. <br className="max-sm:hidden" />You can also download the image with the background removed.</p>
             <div>
-                <input type="file" id="upload1" hidden />
+                <input onChange={e => removeBg(e.target.files[0])} type="file" accept="image/*" id="upload1" hidden />
                 <label className="inline-flex gap-3 px-8 py-3.5 rounded-full cursor-pointer bg-gradient-to-r from-violet-600 to-fuchsia-500 m-auto hover:bg-gradient-to-br transition-all duration-700" htmlFor="upload1">
                     <img width={20} src={assets.upload_btn_icon} alt="Upload Button" />
                     <p className="text-white text-sm">Upload Image</p>
