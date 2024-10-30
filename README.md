@@ -18,8 +18,8 @@ Link 👉 https://drive.google.com/file/d/1MO8_xz-7bMg-Jsl0Jq1G5J5FR8OdakFS/view
 
 #### Clone the repository and install dependencies in both the client and server folders.
 ```bash
-  git clone https://github.com/MrTharinduDasantha/Full-Stack-BG-Removal-App.git
-  cd Full-Stack-BG-Removal-App
+  git clone https://github.com/MrTharinduDasantha/Full-Stack-BG-Removal-Website.git
+  cd Full-Stack-BG-Removal-Website
   npm install
 ```
 #### Folder Setup
