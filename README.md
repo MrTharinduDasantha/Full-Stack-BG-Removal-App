@@ -38,14 +38,12 @@ npm install
 ```
 #### Environment Variables
 You’ll need to configure environment variables in both the client and server folders.
-- Client
-Create a .env file in the client folder with the following.
+- Create a .env file in the client folder with the following.
 ```bash
 VITE_CLERK_PUBLISHABLE_KEY = "Enter your vite clerk publishable key"
 VITE_BACKEND_URL = "http://localhost:3000"
 ```
-- Server
-Create a .env file in the server folder with the following.
+- Create a .env file in the server folder with the following.
 ```bash
 PORT = 3000
 MONGODB_URI = "Enter your mongodb uri here"
