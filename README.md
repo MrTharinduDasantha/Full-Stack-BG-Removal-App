@@ -11,7 +11,7 @@ In this full stack bg removal website I have created user authentication with th
 
 By clicking this link you can see the demonstration of the full stack food ordering website.
 
-Link 👉 https://drive.google.com/file/d/1hbRptda3RE044oCY831-ceFn1M7PKQ4I/view?usp=sharing 👈
+Link 👉 https://drive.google.com/file/d/1MO8_xz-7bMg-Jsl0Jq1G5J5FR8OdakFS/view?usp=sharing 👈
 
 
 ## Installation
@@ -67,4 +67,15 @@ Each user who creates the account initially gets 5 credits. It costs one credit 
 
 ## Screenshots
 
-![image alt](https://github.com/MrTharinduDasantha/Full-Stack-Real-Time-Chat-App/blob/dfb60fd417d424326a8e23f22569556cc62b551c/Img%20-%201.png)
+![image alt](https://github.com/MrTharinduDasantha/Full-Stack-BG-Removal-App/blob/8276999ede81e7fe50968854837509df7465a6db/Img%20-%201.png)
+![image alt](https://github.com/MrTharinduDasantha/Full-Stack-BG-Removal-App/blob/8276999ede81e7fe50968854837509df7465a6db/Img%20-%202.png)
+![image alt](https://github.com/MrTharinduDasantha/Full-Stack-BG-Removal-App/blob/8276999ede81e7fe50968854837509df7465a6db/Img%20-%203.png)
+![image alt](https://github.com/MrTharinduDasantha/Full-Stack-BG-Removal-App/blob/8276999ede81e7fe50968854837509df7465a6db/Img%20-%204.png)
+![image alt](https://github.com/MrTharinduDasantha/Full-Stack-BG-Removal-App/blob/8276999ede81e7fe50968854837509df7465a6db/Img%20-%205.png)
+![image alt](https://github.com/MrTharinduDasantha/Full-Stack-BG-Removal-App/blob/8276999ede81e7fe50968854837509df7465a6db/Img%20-%206.png)
+![image alt](https://github.com/MrTharinduDasantha/Full-Stack-BG-Removal-App/blob/8276999ede81e7fe50968854837509df7465a6db/Img%20-%207.png)
+![image alt](https://github.com/MrTharinduDasantha/Full-Stack-BG-Removal-App/blob/8276999ede81e7fe50968854837509df7465a6db/Img%20-%208.png)
+![image alt](https://github.com/MrTharinduDasantha/Full-Stack-BG-Removal-App/blob/8276999ede81e7fe50968854837509df7465a6db/Img%20-%209.png)
+
+<h4 align="center"> Don't forget to leave a star ⭐️ </h4>
+
